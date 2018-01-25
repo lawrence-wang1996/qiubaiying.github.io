@@ -1,9 +1,9 @@
 # Site settings
-title: 神爱世人 你爱富贵 Fugui's Cottage
-SEOTitle: 神爱世人 你爱富贵
+title:    Fugui's Cottage
+SEOTitle: Fugui's Cottage
 header-img: img/post-bg-desk.jpg
 email: lawrencewang1996@gmail.com
-description: "You Blog"
+description: You Blog
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
