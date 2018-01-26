@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID:    #生成的clientID
   clientSecret:   #同上
   repo: lawrencewang1996.github.io    #仓库名称
