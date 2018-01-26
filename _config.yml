@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-Relevant: [
+Friends: [
     {
         title: "Shanghai Maritime University",
         href: "http://www.shmtu.edu.cn/"
