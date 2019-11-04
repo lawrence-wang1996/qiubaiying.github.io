@@ -2,7 +2,7 @@
 title:    花开富贵
 SEOTitle: 花开富贵
 header-img: img/post-bg-os-metro.jpg
-email: lawrencewang1996@gmail.com
+email: jiabinwa@gmail.com
 description: You Blog
 keyword: ""
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
@@ -19,9 +19,9 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     fu-gui-46-34
+# zhihu_username:     fu-gui-46-34
 # github_username:    lawrencewang1996
-facebook_username:  profile.php?id=100011773306674
+# facebook_username:  profile.php?id=100011773306674
 # jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
